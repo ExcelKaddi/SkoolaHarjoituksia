@@ -1,0 +1,6 @@
+laskuri = 10
+while True:
+    print(laskuri)
+    laskuri+=1
+    if laskuri==21:
+        break
